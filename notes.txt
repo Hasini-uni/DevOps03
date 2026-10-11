@@ -1,1 +1,1 @@
-Initial project wersion
+version:3.0
